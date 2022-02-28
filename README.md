@@ -2,7 +2,7 @@
 
 ## Overview
 
-The purpose of this project is to use unsupervised machine learning to analyze what cryptocurrencies are on the trading market, and create a report including the traded cryptocurrencies classified by group.
+To analyze cryptocurrencies that are on the trading market with unsupervised machine learning, and to create a report including the traded cryptocurrencies classified by group.
 
 This classification report could be used by an company to propose a new cryptocurrency investment portfolio to its clients.
 
